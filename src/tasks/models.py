@@ -8,4 +8,3 @@ class TaskModel(Base):
     title = Column(String)
     description = Column(String)
     is_completed = Column(Boolean)
-
